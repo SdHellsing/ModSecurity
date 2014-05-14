@@ -1,0 +1,6 @@
+#list of sql commands usually used for bypassing, injecting malicious codes via the REQUEST_URI
+information_shema
+@@VERSION--
+LOAD_FILE
+OUTFILE
+
